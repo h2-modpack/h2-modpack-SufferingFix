@@ -27,7 +27,7 @@ public.definition = {
     tooltip  = "Fixes Suffering on Sight not bypassing Wards vow when dealing damage.",
     default  = true,
     dataMutation = false,
-    modpack = "h2-modpack",
+    modpack = "speedrun",
 }
 
 -- =============================================================================
